@@ -5,4 +5,4 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp undraw_dev_productivity_umsq1.svg $DEPLOYPATH
-    - /bin/cp assets/guy.png $DEPLOYPATH
+    - /bin/cp assets/guy.png $DEPLOYPATH/assets
